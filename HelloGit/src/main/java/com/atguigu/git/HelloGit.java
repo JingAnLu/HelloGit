@@ -1,0 +1,12 @@
+package com.atguigu.git;
+
+/**
+ * @Author Jonathan
+ * @Description
+ * @Date 2021/2/18
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
